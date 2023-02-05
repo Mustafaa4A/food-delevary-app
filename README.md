@@ -5,7 +5,7 @@ A new Flutter project.
 # Project Snapshots
 
 ## Login Page 
-<img src='./snapshots/login page.png' />
+<img src='./snapshots/login page.png' width='200px'/>
 
 ## Getting Started
 
