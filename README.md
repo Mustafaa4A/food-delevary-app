@@ -5,7 +5,22 @@ A new Flutter project.
 # Project Snapshots
 
 ## Login Page 
-<img src='./snapshots/login page.png' width='200px'/>
+<img src='./snapshots/login page.png' width='300px'/>
+
+## Home Page 
+<img src='./snapshots/home page.png' width='300px'/>
+
+## Cart Page 
+<img src='./snapshots/cart page.png' width='300px'/>
+
+## Profile Page 
+<img src='./snapshots/profile page.png' width='300px'/>
+
+## Category Detail Page 
+<img src='./snapshots/single category page.png' width='300px'/>
+
+## Profile Page 
+<img src='./snapshots/profile page.png' width='300px'/>
 
 ## Getting Started
 
