@@ -19,8 +19,8 @@ A new Flutter project.
 ## Category Detail Page 
 <img src='./snapshots/single category page.png' width='300px'/>
 
-## Profile Page 
-<img src='./snapshots/profile page.png' width='300px'/>
+## Item Detail Page 
+<img src='./snapshots/food detail page.png' width='300px'/>
 
 ## Getting Started
 
